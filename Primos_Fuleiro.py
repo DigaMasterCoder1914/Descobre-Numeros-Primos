@@ -1,5 +1,4 @@
-#Fechando com chave de ouro! 
-# O Verificador de Número Primo é um dos clássicos da lógica de programação.
+
 
 def pergunta_Numero():
 
